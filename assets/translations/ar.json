@@ -1,0 +1,14 @@
+{
+    "our_products" : "منتجاتنا",
+    "home" : "قائمه",
+    
+    "cart" : "سله تسويق",
+    "orders" : "طلبات",
+    "favorite": "المفضل",
+    "setting": "الاعدادات",
+    "language": "الغة",
+    "log_out":"تسجيل الخروج",
+  "search_products" : "البحث...",
+    "featured_products" : "المنتجات المميزة",
+    "hot_offers"  :    "العروض الساخنه"
+}
